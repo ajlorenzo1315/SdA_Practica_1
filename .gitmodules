@@ -1,0 +1,3 @@
+[submodule "store-app/tools/fake-smtp-server"]
+	path = store-app/tools/fake-smtp-server
+	url = https://github.com/gessnerfl/fake-smtp-server.git
